@@ -1,4 +1,4 @@
-# Depolyment of Jabva based Application through CI/CD Jenkins pipeline using Maven,SonarQube, Docker, Argo CD, Helm and Kubernetes 
+# Depolyment of Java based Application through CI/CD Jenkins pipeline using Maven,SonarQube, Docker, Argo CD, Helm and Kubernetes 
 
 ![Screenshot 2023-03-29 124201](https://user-images.githubusercontent.com/91549516/229478815-a58d95d6-9141-454d-8969-62a7b0d1ce30.png)
 
