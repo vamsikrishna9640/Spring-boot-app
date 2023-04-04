@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sprint-boot-app
-        image: vamsi9640/ultimate-cicd:replaceImageTag
+        image: vamsi9640/ultimate-cicd:5
         ports:
         - containerPort: 8010
